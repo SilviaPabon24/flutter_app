@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444261780937",
+    "project_id": "assistapp-94ecc",
+    "storage_bucket": "assistapp-94ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444261780937:android:0a5cf3fa85d504f7e32c18",
+        "android_client_info": {
+          "package_name": "con.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444261780937-4vm15hdoorgkhc5oac3vshjrg920b7uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsacXU7dqBh9ITl9mKPmFtPAhUp_FAca4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444261780937-4vm15hdoorgkhc5oac3vshjrg920b7uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
